@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>티에스엔랩 on </title>
+    <link>https://tsnlab.github.io/tags/%ED%8B%B0%EC%97%90%EC%8A%A4%EC%97%94%EB%9E%A9/</link>
+    <description>Recent content in 티에스엔랩 on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Thu, 15 Feb 2024 04:25:41 +0000</lastBuildDate>
+    <atom:link href="https://tsnlab.github.io/tags/%ED%8B%B0%EC%97%90%EC%8A%A4%EC%97%94%EB%9E%A9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>창업</title>
+      <link>https://tsnlab.github.io/posts/startup/</link>
+      <pubDate>Thu, 15 Feb 2024 04:25:41 +0000</pubDate>
+      <guid>https://tsnlab.github.io/posts/startup/</guid>
+      <description>&lt;h2 id=&#34;시작&#34;&gt;시작&lt;/h2&gt;
+&lt;p&gt;TSN Lab 김성민 대표이사입니다. TSN Lab의 시작을 설명하려면 제가 이전에 창업했던 회사인 구름네트웍스를 설명하지 않을 수 없습니다. 2014년 네트워크 운영체제를 아이템으로 창업했던 구름네트웍스는 인포뱅크로부터 투자를 받고, TIPS에 선정되면서 성장할 수 있는 발판을 마련했습니다. 그 과정에서 저는 R&amp;amp;D 중심의 회사에서 매출 중심의 회사로 전환하기 위해 대표이사직을 내려 놓고 기술이사 역할에 전념 했습니다. 새로운 영업 대표를 영입하며 회사가 성장하는 것처럼 보였습니다.&lt;/p&gt;
+&lt;p&gt;회사가 점점 좋아지며 매출 규모가 확대되는 시점에 영업 대표는 본색을 드러내기 시작했습니다. 경영권 분쟁이 발생했고, 투자사는 TIPS 선정 당시 대표를 바꿀 수는 없다는 입장을 밝혔습니다. 온갖 거짓말과 협박이 오고가며 직원들은 불안해 하기 시작했습니다. 영업 대표가 직원들을 불러 한명 한명 이름을 호명하며 법적인 대응을 하겠다는 협박을 하는 것을 보며 투자사에게 직원들을 보호하겠다는 약속을 받고 제가 회사를 떠나기로 하였습니다.&lt;/p&gt;
+&lt;h2 id=&#34;바닥&#34;&gt;바닥&lt;/h2&gt;
+&lt;p&gt;저의 젊은 날을 투자해 6년 동안 일구었던 회사를 떠나고 성균관대학교 인공지능학과에서 박사과정을 시작했습니다. 매일 매일 자식 같던 회사를 떠나 보낸 슬픔을 털어내며 새로운 것을 배우는데 집중하는 시간이었습니다.&lt;/p&gt;
+&lt;p&gt;공부를 시작한지 얼마 되지 않아 이전 고객사들로부터 전화가 오기 시작했습니다. 새로운 대표와는 도저히 같이 일 못 하겠으니 네가 회사를 하나 더 만들라는 것이었습니다. 저는 한창 공부를 하는 시기였기 때문에 후다닥 법인 하나 만들고 신뢰할 수 있는 직원 한 명에게 실무를 맡기고 저는 공부에 매진했습니다. 박사과정을 수료할 때쯤 해서 그렇게 연결된 고객의 숫자가 서넛을 넘기게 되었습니다. 도저히 직원에게만 맡겨선 회사가 돌아가지 않는 상황이 되었습니다.&lt;/p&gt;
+&lt;h2 id=&#34;다시-시작&#34;&gt;다시 시작&lt;/h2&gt;
+&lt;p&gt;
+
+&lt;figure&gt;
+&lt;img class=&#34;image&#34; src=&#34;./startup.jpg&#34; alt=&#34;첫 회식&#34;&gt;
+&lt;figurecaption&gt; 첫 회식 &lt;/figurecaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;TSN Lab의 TSN의 Time-Sensitive Networking 또는 Time-Sensitive Neural-Net 의 약자입니다. 회사 이름이 TSN Lab이 된 이유는 첫 번째 고객이 맡겨 준 과업이 TSN(첫 번째 TSN)을 국내에 적용하는 과업이었기 때문입니다. 당시엔 첫 번째 고객하고만 일 하는 회사를 생각 했었기 때문에 TSN을 하는 회사, TSN Lab 으로 이름이 정했습니다.&lt;/p&gt;
+&lt;p&gt;고객의 숫자가 점점 늘고, 그에 비례해 직원 숫자가 늘면서 저도 회사에 전념 해야 하는 시기가 왔습니다. 박사과정에서 2년 동안 연구했던 실시간 AI 기술을 회사의 주력 기술 중 하나로 편입시키며 TSN Lab은 실시간 통신, 실시간 AI 전문 기업이 되었습니다.&lt;/p&gt;
+&lt;h2 id=&#34;재택근무-한달-휴가-한달-워케이션&#34;&gt;재택근무, 한달 휴가, 한달 워케이션&lt;/h2&gt;
+&lt;p&gt;박사과정 중에 창업한 회사이고 신뢰할 수 있는 사람과 일 하는 회사여서 굳이 사무실을 만들 필요가 없었습니다. 대표이사를 포함해 전직원 재택 근무로 시스템을 만들어갔고, 3년이 지난 지금 그 시스템이 완전히 정착 했습니다.&lt;/p&gt;
+&lt;p&gt;저는 사람은 놀기 위해 태어났다고 생각합니다. 일도 놀이처럼 하면 좋겠지만 아무리 즐겁게 일 하려 해도 일 하다 보면 지치는건 어쩔 수 없습니다. 1년에 한달을 쉬면 어떨까 생각했습니다. 업무 일수도 20일 휴가가 있으면 한달 내내 쉴 수 있습니다. 그래서 전직원 연차 구분 없이 20일 휴가 제도를 시작했습니다.&lt;/p&gt;
+&lt;p&gt;재택근무라고 아무 장소에서나 일 하는 것은 아닙니다. 정해진 장소에서 업무시간 중 언제든 화상회의를 할 수 있는 장소여야 합니다. 하지만 꼭 그래야만 하나요? 한달 정도는 휴가지에서 일도 하고 놀기도 하면 안 될까요? 그래서 20일 워케이션 제도가 생겼고 여러 명이 워케이션을 다녀오고 있습니다. 좋은 점은 휴가지에서 일 할 수 있다는 점, 나쁜 점은 휴가지에서 일 해야 한다는 점… 그래서 요즘은 워케이션과 휴가를 섞어 사용합니다. 오전엔 일, 오후엔 휴가 이런 식으로요.&lt;/p&gt;
+&lt;h2 id=&#34;앞으로&#34;&gt;앞으로…&lt;/h2&gt;
+&lt;p&gt;지난 3년 간 묵혀뒀던 이야기, 앞으로 해야 할 일들 그리고 기술에 대해 꼼꼼히 적어 올리도록 하겠습니다.&lt;/p&gt;
+</description>
+    </item>
+    </channel>
+</rss>

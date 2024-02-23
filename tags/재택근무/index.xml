@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>재택근무 on </title>
+    <link>https://tsnlab.github.io/tags/%EC%9E%AC%ED%83%9D%EA%B7%BC%EB%AC%B4/</link>
+    <description>Recent content in 재택근무 on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Wed, 21 Feb 2024 08:02:18 +0000</lastBuildDate>
+    <atom:link href="https://tsnlab.github.io/tags/%EC%9E%AC%ED%83%9D%EA%B7%BC%EB%AC%B4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>재택 근무</title>
+      <link>https://tsnlab.github.io/posts/remote-work/</link>
+      <pubDate>Wed, 21 Feb 2024 08:02:18 +0000</pubDate>
+      <guid>https://tsnlab.github.io/posts/remote-work/</guid>
+      <description>&lt;h2 id=&#34;코로나와-재택근무&#34;&gt;코로나와 재택근무&lt;/h2&gt;
+&lt;p&gt;2021년 초 회사를 창업했을 때 코로나 팬데믹으로 직장이 폐쇄되고 난리가 아니었습니다. 사무실이 있어도 출근 못 하는 경우가 많았고, 많은 기업이 재택근무를 도입하기 시작했습니다. TSN Lab은 코로나가 한창일 때 창업을 했기 때문에 처음부터 재택근무만으로 도입할 수 있는 회사를 설계했습니다.&lt;/p&gt;
+&lt;p&gt;처음에 직원이 1~2명만 있을 때는 시스템이 없이도 회사가 돌아갈 줄 알았습니다. 사람이 적더라도 원격으로 일을 하기 위해선 서로 원만하게 소통할 수 있는 최소한의 규칙이 있어야 한다는 것을 깨달았습니다. 재택 근무를 시작하며 몇 가지 원칙을 세웠습니다.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;화상 회의방을 열어서 정시 출근하기&lt;/li&gt;
+&lt;li&gt;Scrum Process를 도입해 체계적으로 업무 관리하기&lt;/li&gt;
+&lt;li&gt;온라인으로 소통할 수 있는 채널 사용하기&lt;/li&gt;
+&lt;li&gt;모든 문서는 공유 폴더에 공유하기&lt;/li&gt;
+&lt;li&gt;종종 오프라인으로 모이기&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;화상-회의방-정시-출근&#34;&gt;화상 회의방 정시 출근&lt;/h2&gt;
+&lt;p&gt;
+
+&lt;figure&gt;
+&lt;img class=&#34;image&#34; src=&#34;./dinner.jpg&#34; alt=&#34;회식은 온라인으로&#34;&gt;
+&lt;figurecaption&gt; 회식은 온라인으로 &lt;/figurecaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;저희 회사는 재택근무 장소를 “언제든 화상 회의할 수 있는 독립 공간”으로 한정하고 있습니다. 그렇기 때문에 몸은 떨어져 있지만 사실 회사에 출근하는 것과 같은 상황을 “의도적으로” 만들어냅니다. 직원 입장에선 출퇴근 시간이 0이긴 하지만 정확한 시간에 출근해야 하고, 항상 서로의 얼굴을 보고 일을 하고 있기 때문에 오프라인으로 출근 하는 것과 유사한 효과를 얻을 수 있습니다.&lt;/p&gt;
+&lt;p&gt;오프라인으로 출근하면 누가 언제 왔는지, 어떤 전화 통화를 하는지, 중간에 화장실은 몇번 가는지, 모니터엔 뭐가 떠 있는지 상시 확인할 수 있지만 온라인으로 출근하면 출근 했는지 안 했는지만 확인할 수 있습니다.&lt;/p&gt;
+&lt;p&gt;온라인으로 근무하면 출근 여부만 확인하고 업무 성과 확인은 Process에 맡깁니다.&lt;/p&gt;
+&lt;h2 id=&#34;scrum-process&#34;&gt;Scrum Process&lt;/h2&gt;
+&lt;p&gt;Scrum Process는 S/W 기업에서 많이 사용하는 개발 방법론입니다. 1주 ~ 1개월 단위로 목표를 정해놓고 그 목표를 향해 질주하는 개발 프로세스입니다. Scrum Process가 완벽한 것은 아니지만 잘 적용할 수 있으면 많은 이점이 있습니다.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;업무가 투명하게 관리됩니다&lt;/li&gt;
+&lt;li&gt;완벽하진 않지만 업무를 정량화 할 수 있습니다&lt;/li&gt;
+&lt;li&gt;당연히 팀원의 정량 성과 측정이 가능합니다&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Scrum Process의 정량평가 지표를 인사평가랑 바로 연결하면 개발 프로세스가 망가지기 때문에 인사 평가 때는 직접 연동은 하지 않고 참고 자료로만 활용합니다.&lt;/p&gt;
+&lt;h2 id=&#34;온라인-소통-채널&#34;&gt;온라인 소통 채널&lt;/h2&gt;
+&lt;p&gt;모든 문서는 공유합니다. 모든 커뮤니케이션은 팀 채널을 통해 합니다. 그리고 모든 가능하면 자주 화상으로 회의 합니다.&lt;/p&gt;
+&lt;p&gt;저희는 온라인 툴을 적극 활용하고 있습니다. Google Drive를 통해 회사에서 산출되는 모든 문서를 관리합니다. GitHub를 통해 모든 소스코드를 관리합니다. ClickUp을 통해 업무 프로세스와 매뉴얼 그리고 Know-how를 관리합니다.&lt;/p&gt;
+&lt;p&gt;Google Meet과 Chat은 실시간 커뮤니케이션을 위한 중요한 수단입니다. 출근할 때는 회사 전체 방으로 출근하고, 소소한 회의를 할 때마다 화상 회의를 적극적으로 활용하고 있습니다.&lt;/p&gt;
+&lt;p&gt;온라인으로 커뮤니케이션 하면 정보 전달을 위한 비용을 많이 줄일 수 있고, 정보 전달 효율성은 오프라인에 비해 90% 이상입니다. 정보 전달을 위해 들이는 비용과 효율성을 종합적으로 따져보면 온라인 커뮤니케이션이 절대적으로 유리합니다.&lt;/p&gt;
+&lt;p&gt;하지만 종종 아키텍처를 만드는 것과 같이 복잡한 정보를 아주 빠르게 교환해야 하는 경우, HW 디버깅과 같이 물리적인 장치를 이용해야 하는 경우, 팀워크와 같이 감정 전달이 중요한 경우에는 오프라인으로 모여야 합니다.&lt;/p&gt;
+&lt;h2 id=&#34;offline-meeting&#34;&gt;Offline meeting&lt;/h2&gt;
+&lt;p&gt;처음 3년 간은 분기별로 한 번씩 모였습니다. 다 같이 한 장소에 모여 서로 하던 업무를 그대로 합니다. 모니터나 스피커를 통해 흘러나오는 정보가 아니라 gut feeling (느낌 같은 느낌)으로 소통을 하게 됩니다. 한 번 모여 일을 해 보면 이 사람은 이런 상황에서 이런 표정을 짓는구나, 이 사람은 이 경우에 이런 표현을 사용하는구나 하는 것을 서로 익히게 됩니다. 일종의 합을 맞추는 과정입니다.&lt;/p&gt;
+&lt;p&gt;직원의 숫자가 20명이 되고 창업 4년차가 되는 지금은 한 두달에 한 번씩 모이고 있습니다. 지금은 팀이 자리를 잘 잡고 있어서 분기별 팀웍데이, 분기별 리더 워크샵, 분기별 오프라인데이로 모이고 있습니다. 팀장의 경우 매 달, 팀원의 경우 한 두달에 한 번씩은 서로 얼굴을 보게 됩니다.&lt;/p&gt;
+&lt;p&gt;오프라인 미팅을 하면 깨닫게 되는 몇가지가 있습니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;만나서 좋다&lt;/li&gt;
+&lt;li&gt;하지만 맨날 붙어서 일 하라면 못 하겠다&lt;/li&gt;
+&lt;li&gt;역시 오프라인이 편하다&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;wrap-up&#34;&gt;Wrap-up&lt;/h2&gt;
+&lt;p&gt;재택근무 만 3년을 요약하면 이렇습니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;재택근무를 완전히 정착 시키는데 1년 정도 걸렸습니다&lt;/li&gt;
+&lt;li&gt;업무 효율은 오프라인 근무에 비해 1.5배 이상입니다&lt;/li&gt;
+&lt;li&gt;80% 직원들은 재택근무를 &amp;ldquo;사랑&amp;rdquo; 합니다. 재택근무 없는 회사는 회사가 아님.&lt;/li&gt;
+&lt;li&gt;20% 직원들은 재택근무를 &amp;ldquo;싫어&amp;rdquo; 합니다. 감정 소통이 중요한 분들이 재택근무를 싫어하는 경향이 있습니다. 보통 3개월 이전에 회사를 떠납니다.&lt;/li&gt;
+&lt;li&gt;재택근무를 성공하려면 명확한 성과 관리 시스템이 있어야 합니다&lt;/li&gt;
+&lt;li&gt;재택근무를 하더라도 정기적으로 Offline meeting을 해야 합니다&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;다음 글은 한달 휴가, 한달 워케이션에 대해 쓰려 합니다.&lt;/p&gt;
+</description>
+    </item>
+    </channel>
+</rss>
