@@ -2,16 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://tsnlab.github.io/tags/four-day-workweek/</loc>
+    <lastmod>2024-02-28T01:23:48+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://tsnlab.github.io/posts/</loc>
-    <lastmod>2024-02-22T23:32:48+00:00</lastmod>
+    <lastmod>2024-02-28T01:23:48+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tsnlab.github.io/tags/</loc>
-    <lastmod>2024-02-22T23:32:48+00:00</lastmod>
+    <lastmod>2024-02-28T01:23:48+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tsnlab.github.io/</loc>
-    <lastmod>2024-02-22T23:32:48+00:00</lastmod>
+    <lastmod>2024-02-28T01:23:48+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tsnlab.github.io/posts/four-day-workweek/</loc>
+    <lastmod>2024-02-28T01:23:48+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tsnlab.github.io/tags/%EC%A3%BC4%EC%9D%BC%EC%A0%9C/</loc>
+    <lastmod>2024-02-28T01:23:48+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tsnlab.github.io/tags/worcation/</loc>
